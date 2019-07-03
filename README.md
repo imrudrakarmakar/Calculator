@@ -1,6 +1,8 @@
-# calculator
+# Calculator
 
 A new Flutter application.
+
+<img src="calculator.png" hight="500" width="265">
 
 ## Getting Started
 
